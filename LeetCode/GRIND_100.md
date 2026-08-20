@@ -24,7 +24,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 
 ### 📂 Subarray & Sliding Window
 - [x] [Maximum Subarray](./Java/Medium/53. Maximum Subarray/)
-- [x] [Subarray Sum Equals K](./Java/Medium/560. Subarray Sum Equals K/)
+- [x] [Subarray Sum Equals K](./C++/Medium/560. Subarray Sum Equals K/)
 - [ ] Sliding Window Maximum
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Find All Anagrams in a String
