@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Hash Table, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** 41 ms
-- **Memory:** 45.4 MB
+- **Runtime:** 1577 ms
+- **Memory:** 48.1 MB
 
 ---
 
