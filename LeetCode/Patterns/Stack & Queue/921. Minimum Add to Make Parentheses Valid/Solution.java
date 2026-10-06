@@ -23,20 +23,23 @@ class Solution {
                 st.push('(');
             }
             else if(c==')'){
-                if(st.isEmpty())
-                count++;
-                
-                
+                if(st.isEmpty()){
+                    count++;
+                }
+                else{
+                    st.pop();
+                }
+             
             }
             
-            else{
-                st.pop();
-            }
+           
         }
         while(!st.isEmpty()){
             st.pop();
             count++;
+            
         }
+        
         return count;
       
         
