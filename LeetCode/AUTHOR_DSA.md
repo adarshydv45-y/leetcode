@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 238 (2.1%)
+- **Completed:** 7 / 238 (2.9%)
 
 ---
 
@@ -112,7 +112,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Maximum Gap
 
 ### 📂 MODULE  3.7: SUBARRAY & PREFIX INTUITION
-- [ ] Maximum Subarray
+- [x] [Maximum Subarray](./Java/Medium/53. Maximum Subarray/)
 - [ ] Find Pivot Index
 - [ ] Product of Array Except Self
 - [ ] Partition Array Into Three Parts With Equal Sum
@@ -150,7 +150,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Median of Two Sorted Arrays
 
 ### 📂 PART  2: SUBARRAYS, SUBSETS & KSUM This
-- [ ] Maximum Subarray
+- [x] [Maximum Subarray](./Java/Medium/53. Maximum Subarray/)
 - [ ] Subarray Sums Divisible by K
 - [ ] Subsets
 - [ ] Two Sum
